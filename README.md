@@ -7,3 +7,5 @@ Masters in Applied Mathematics & Machine Learning — Cork, Ireland.
 Comfortable across the full arc: product problem → cloud data pipelines → causal inference & explainable AI → model deployment into CRMs → experiment design & framework development.
 
 Interested in statistical modelling, high-throughput data pipelines and production ML systems, and closing the loop between data and revenue.
+
+Currently exploring RNNs and RL.
