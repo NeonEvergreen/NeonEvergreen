@@ -9,4 +9,4 @@ from problem framing and warehouse architecture through statistical modelling, c
 
 Interested in statistical modelling, high-throughput data pipelines, and production ML systems.
 
-Currently exploring RNNs (LSTMs to be specific) and the maths underpinning Attention based models.
+Currently exploring Reinforcement Learning and the maths underpinning Attention based models.
